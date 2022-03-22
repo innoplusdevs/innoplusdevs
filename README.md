@@ -15,6 +15,7 @@ I spend my day to day developing web applications with Javascript, HTML and CSS.
 
 ### A little more about me:
 
+- 🔨 Project example as freelancer: www.furanchosengalicia.com
 - 🔭 I’m currently working on www.gapcommerce.com
 - 🌱 I’m currently learning Web3
 
