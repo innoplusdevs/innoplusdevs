@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a frontend web developer.I like to build aesthetically friendly and modern platforms.
+My name is Christian. I am a frontend web developer.I like to build aesthetically friendly and modern platforms.
 
 I spend my day to day developing web applications with Javascript, HTML and CSS. I especially use Next.js (React framework for production), SCSS and TailwindCSS as essential tools in my day to day life, although I also use Node.js, Express and MongoDB.
 
