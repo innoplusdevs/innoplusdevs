@@ -17,7 +17,7 @@ I spend my day to day developing web applications with Javascript, HTML and CSS.
 
 - 🔨 Freelance project example: www.furanchosengalicia.com
 - 🔭 I’m currently working on www.gapcommerce.com
-- 🌱 I’m currently learning Web3
+- 🌱 I’m currently learning Web3 and mobile development
 
 <!--
 **innoplusdevs/innoplusdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
