@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contact: 
+- email: innoplusdevs@gmial.com
