@@ -16,8 +16,8 @@ I spend my day to day developing web applications with Javascript, HTML and CSS.
 ### A little more about me:
 
 - 🔨 Freelance project example: https://sleepzzone-web.syntonize.dev/
-- 🔭 I’m currently working on www.gapcommerce.com
-- 🌱 I’m currently learning Web3 and mobile development
+- 🔭 I’m currently working on www.chagodtour.com
+- 🌱 I’m currently learning mobile development
 
 <!--
 **innoplusdevs/innoplusdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
