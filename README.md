@@ -16,7 +16,7 @@ I spend my day to day developing web applications with Javascript, HTML and CSS.
 ### A little more about me:
 
 - 🔨 Freelance project example: https://sleepzzone-web.syntonize.dev/
-- 🔭 I’m currently working on www.chagodtour.com
+- 🔭 I’m currently working on www.chagodtour.travel
 - 🌱 I’m currently learning mobile development
 
 <!--
