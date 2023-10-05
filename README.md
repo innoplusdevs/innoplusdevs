@@ -16,7 +16,7 @@ I spend my day to day developing web applications with Javascript, HTML and CSS.
 ### A little more about me:
 
 <!-- - 🔨 Freelance project example: https://sleepzzone-web.syntonize.dev/ -->
-- 🔭 I’m currently working on [AT&T](https://www.att.com/)
+- 🔭 I’m currently working on my on project
 - 🌱 I’m currently learning web back-end development
 
 <!--
